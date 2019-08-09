@@ -1,5 +1,5 @@
 # fastify-api
 
-# To install the all packages run the below command:
+#### To install the all packages run the below command:
 
      npm install
